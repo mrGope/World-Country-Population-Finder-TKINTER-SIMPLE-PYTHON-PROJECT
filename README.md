@@ -38,13 +38,14 @@ python Population.py
 ```
 SCREENSHOTS: 
 
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/04652cc0-2d62-41c5-9cce-877e1c4d7413)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/db98ceed-d578-454c-9156-7b3704875cc4)
 
 
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/2995163a-1f02-46ef-bdbf-bc5a705bf83e)
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/3d8cbcbe-598a-4e2b-a894-9ecc30fff98c)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/7899224b-d5d1-40df-bae0-e6141a94e20c)
 
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/422de8c5-f28f-46d0-a1fb-0aa37c476464)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/43514f4f-f55e-47a7-ab84-14cbd231b384)
+
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/b32a59f0-3b1d-469e-b2a4-95ac351d052c)
 
 
 
