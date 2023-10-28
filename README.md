@@ -14,9 +14,17 @@ Project is created with:
 ```
 pip install tkinter
 ```
+#### install PIL Dep
+```
+pip install Pillow
+```
 #### Install requests module
 ```
 pip install requests
+```
+#### Install pycountry library
+```
+pip install pycountry
 ```
 #### Install bs4 library
 ```
@@ -26,3 +34,6 @@ pip install bs4
 ```
 python Population.py
 ```
+
+
+
