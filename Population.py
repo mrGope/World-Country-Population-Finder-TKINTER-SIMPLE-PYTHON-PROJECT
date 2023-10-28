@@ -310,14 +310,15 @@ def searchcountry():
     popLabel.grid(row=3, column=1, columnspan=4)
     mapping = {country.name: country.alpha_2 for country in pycountry.countries}
     
-    img = ImageTk.PhotoImage(Image.open(f"{mapping.get(uurl).lower()}.png").resize((150, 100)))
+    img = ImageTk.PhotoImage(Image.open(f"flages/{mapping.get(uurl).lower()}.png").resize((150, 100)))
    
     popLabel2=Label(country_frame, image=img)
     
     popLabel2.grid(row=3, column=0, columnspan=1)
     popLabel2.mainloop()
-searchcountry()
+
 searchBtn = Button(country_frame, text="Search", bg='black', fg='white', width = 13, font = ("Calibri", 11),command=searchcountry)
 searchBtn.grid(row = 1, column=0, columnspan=1,pady=10)
 Label(root, text='Project by Your Name', fg='red').grid(row=1, column=0, columnspan=4, pady=5)
+searchcountry()
 root.mainloop()
