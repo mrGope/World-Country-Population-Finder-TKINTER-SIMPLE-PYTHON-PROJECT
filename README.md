@@ -35,3 +35,15 @@ pip install bs4
 ```
 python Population.py
 ```
+SCREENSHOTS: 
+
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/04652cc0-2d62-41c5-9cce-877e1c4d7413)
+
+
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/2995163a-1f02-46ef-bdbf-bc5a705bf83e)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/3d8cbcbe-598a-4e2b-a894-9ecc30fff98c)
+
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/422de8c5-f28f-46d0-a1fb-0aa37c476464)
+
+
+
