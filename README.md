@@ -1,14 +1,15 @@
 # World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT
-Simple GUI app to find the world population along with the national flag uses the worldpopulation.com  url type API.
+A simple GUI app to find the world population along with the national flag uses the worldpopulation.com  url type API.
+Fork The project or Download as Zip and Extract Run using IDLE
 
 
 ## Technologies
-Project is created with:
-* Python version: 3.8.3
-* Tkinter version: 8.5
-* requests version: 2.24.0
-* bs4 version: 0.0.1
-
+The project is established with the following specifications:
+- Python version: 3.8.3
+- Tkinter version: 8.5
+- Requests version: 2.24.0
+- Beautiful Soup (bs4) version: 0.0.1
+  
 ## Setup
 ### To run this project,
 #### Install Tkinter
