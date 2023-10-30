@@ -1,14 +1,15 @@
 # World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT
-Simple GUI app to find the world population along with the national flag uses the worldpopulation.com  url type API.
+A simple GUI app to find the world population along with the national flag uses the worldpopulation.com  url type API.
+Fork The project or Download as Zip and Extract Run using IDLE
 
 
 ## Technologies
-Project is created with:
-* Python version: 3.8.3
-* Tkinter version: 8.5
-* requests version: 2.24.0
-* bs4 version: 0.0.1
-
+The project is established with the following specifications:
+- Python version: 3.8.3
+- Tkinter version: 8.5
+- Requests version: 2.24.0
+- Beautiful Soup (bs4) version: 0.0.1
+  
 ## Setup
 ### To run this project,
 #### Install Tkinter
@@ -37,13 +38,14 @@ python Population.py
 ```
 SCREENSHOTS: 
 
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/04652cc0-2d62-41c5-9cce-877e1c4d7413)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/db98ceed-d578-454c-9156-7b3704875cc4)
 
 
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/2995163a-1f02-46ef-bdbf-bc5a705bf83e)
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/3d8cbcbe-598a-4e2b-a894-9ecc30fff98c)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/7899224b-d5d1-40df-bae0-e6141a94e20c)
 
-![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/422de8c5-f28f-46d0-a1fb-0aa37c476464)
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/43514f4f-f55e-47a7-ab84-14cbd231b384)
+
+![image](https://github.com/mrGope/World-Country-Population-Finder-TKINTER-SIMPLE-PYTHON-PROJECT/assets/89683134/b32a59f0-3b1d-469e-b2a4-95ac351d052c)
 
 
 
